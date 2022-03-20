@@ -8,12 +8,6 @@
     },
     {
       "userId": 1,
-      "id": 2,
-      "title": "Pelaksanaan Rapat Hasil Akhir Yudisium Semester Ganjil 2019/2020",
-      "body": "Jumat (17/1/20) kemarin, Jurusan Teknologi Informasi Politeknik Negeri Malang (JTI Polinema) menyelenggarakan rapat hasil yudisium semester ganjil tahun ajaran 2019/2020. Acara ini dimulai pada jam 8.30 dan bertempat di lantai 8, Gedung Teknik Sipil, Politeknik Negeri..."
-    },
-    {
-      "userId": 1,
       "id": 3,
       "title": "Kemeriahan Penutupan Digital Talent Scholarship VSGA 2019 Batch 2 di Politeknik Negeri Malang",
       "body": "Selesai sudah Digital Talent Scholarship (DTS) Batch 2 2019 dengan program Vocational School Graduate Academy&nbsp;(VSGA) di Jurusan Teknologi Informasi (JTI) Politenik Negeri Malang (Polinema). Pelatihan yang didanai Kominfo dan bekerjasama dengan Jurusan..."
@@ -23,6 +17,12 @@
       "id": 4,
       "title": "Jalin Kerjasama dengan Shenyang University of Technology, JTI Polinema Terbangkan Empat Mahasiswa ke Tiongkok",
       "body": "Empat mahasiswa Jurusan Teknologi Informasi (JTI) Politeknik Negeri Malang (Polinema) telah berangkat ke negeri tirai bambu pada hari selasa (8/10/2019) kemarin, dalam rangka kerjasama antar kampus Polinema dan Shenyang University of Technology. Para mahasiswa tersebut..."
+    },
+    {
+      "userId": 1,
+      "id": 1647769871958,
+      "title": "Kerjasama Workshop Riset informatika (WRI) dan Game Developer Malang (GDM) dalam acara Open Talk",
+      "body": "Minggu (20/3/2022), Workshop dan Riset Informatika (WRI Polinema) menyelenggarakan kerjasama bersama Game Developer Malang dan GADAS untuk membuat sebuah acara Open Talk bersama narasumber yang luar biasa yang bergerak di bidang Game Developer."
     }
   ],
   "comments": [
@@ -32,7 +32,24 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "NIM": 180823453,
+      "id": 180823453,
+      "nama": "Mahasiswa 1",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "081802023249",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "NIM": 140823453,
+      "id": 140823453,
+      "nama": "Mahasiswa X",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081802023523",
+      "angkatan": 2014,
+      "status": "lulus"
+    }
+  ]
 }
